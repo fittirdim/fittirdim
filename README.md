@@ -22,4 +22,4 @@ Hello I'm Mete, I'm a full stack developer from **Ankara, Turkey**.
 
 💬 Discord • [main](https://discord.com/users/464544780983074828)
 
-🌎 Mirage • [Community](https://discord.gg/cemevi)
+🌎 Y2K • [Community](https://discord.gg/y2k)
